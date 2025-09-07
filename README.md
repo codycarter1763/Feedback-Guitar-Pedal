@@ -42,7 +42,7 @@ This is the schematic for the feedback looper pedal. The way this design works i
 ## Boost and Phase Circuit
 ![BoostV1-min](https://github.com/user-attachments/assets/76d73c05-668e-442a-a62f-e9742ba107b0)
 <br>
-My two classmates, Riley and Cecilia, and I designed the schematic and circuit board for use with this pedal using LTSpice and Fusion 360. The design includes an adjustable clean boost, phase reversal, and adjustable feedback volume for more sonic versitility with pedals in the feedback loop.
+My two classmates, Rylie and Cecilia, and I designed the schematic and circuit board for use with this pedal using LTSpice and Fusion 360. The design includes an adjustable clean boost, phase reversal, and adjustable feedback volume for more sonic versitility with pedals in the feedback loop.
 ### Analysis
 #### Clean Boost Stage
 ![image](https://github.com/user-attachments/assets/ffff4b2a-9eae-4d1a-be30-3aacc9880a1a)
