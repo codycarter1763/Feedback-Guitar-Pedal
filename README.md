@@ -5,6 +5,7 @@
 # About Us
 This pedal was created and designed by Cody Carter (Computer Engineering), Rylie Fontenot (Electrical Engineering), and Cecilia [Last Name] (Electrical Engineering). Together we created a custom feedback looper pedal that open up so many tone possibilities to a guitar player's arsenal. Development responsibilities were split between us, with each contributing their expertise in analog circuit design, PCB design, and hardware integration.
 
+<!--suppress ALL -->
 <div align="center">
   <h3>Cody Carter</h3>
   <img src="https://github.com/user-attachments/assets/2808f0ad-6c56-464c-abdd-6ece9a4be026" alt="Cody Carter Profile" width="100" style="border-radius:50%">
