@@ -2,8 +2,44 @@
 
 ![thumbnail](https://github.com/user-attachments/assets/15f0e10a-a074-4aeb-89d2-42c260b15fe8)
 
+# About Us
+This pedal was created and designed by Cody Carter (Computer Engineering), Rylie Fontenot (Electrical Engineering), and Cecilia [Last Name] (Electrical Engineering). Together we created a custom feedback looper pedal that open up so many tone possibilities to a guitar player's arsenal. Development responsibilities were split between us, with each contributing their expertise in analog circuit design, PCB design, and hardware integration.
+
+<div align="center">
+  <h3>Cody Carter</h3>
+  <img src="https://github.com/user-attachments/assets/2808f0ad-6c56-464c-abdd-6ece9a4be026" alt="Cody Carter Profile" width="100" style="border-radius:50%">
+  <p>
+    <a href="https://github.com/codycarter1763">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+    <a href="https://www.linkedin.com/in/cody-carter-a8a747293/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+  </p>
+
+<div align="center">
+  <h3>Rylie Fontenot</h3>
+  <img src="https://media.licdn.com/dms/image/v2/D5603AQFKTee4mqEFRQ/profile-displayphoto-shrink_400_400/B56Zd2r2jqHEAg-/0/1750042897225?e=1759968000&v=beta&t=cUhbHVjkiVxpLuMKNt5Zb8UxYemX87PC8ysEgMbyvS0" width="100" style="border-radius:50%">
+  <p>
+    <a href="https://www.linkedin.com/in/rylie-fontenot-979aa1330/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+  </p>
+
+  <div align="center">
+  <h3>Cecilia (insert last name)</h3>
+  <img src="" alt="Cody Carter Profile" width="100" style="border-radius:50%">
+  <p>
+    <a href="">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+    <a href="">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+  </p>
+  
 # About
-This is a build log and tutorial on how to build a simple feedback looper pedal. They are super simple to make, but open up so many tone possibilities to your arsenal. All you do is plug in a guitar into the input, route a pedal through the effects loop, and run the output to your signal chain or amp. Depending on the pedals put in the effects loop, like delay, fuzz, chorus, distortion, etc, you will have infinite delay, chasmic reverb, snarling fuzz tones, and so much more. Each pedal has a truly unique effect when placed in the looper that brings new life and inspiration to your guitar pedals.
+All you do is plug in a guitar into the input, route a pedal through the effects loop, and run the output to your signal chain or amp. Depending on the pedals put in the effects loop, like delay, fuzz, chorus, distortion, etc, you will have infinite delay, chasmic reverb, snarling fuzz tones, and so much more. Each pedal has a truly unique effect when placed in the looper that brings new life and inspiration to your guitar pedals.
 
 Convinced yet? The possibilities with a feedback looper are endless, give it a shot and see what you've been missing!
 
