@@ -28,7 +28,7 @@ This pedal was created and designed by Cody Carter (Computer Engineering), Rylie
 
   <div align="center">
   <h3>Cecilia (insert last name)</h3>
-  <img src="" alt="Cody Carter Profile" width="100" style="border-radius:50%">
+  <img src="" alt="" width="100" style="border-radius:50%">
   <p>
     <a href="">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
