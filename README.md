@@ -3,7 +3,7 @@
 ![thumbnail](https://github.com/user-attachments/assets/15f0e10a-a074-4aeb-89d2-42c260b15fe8)
 
 # About Us
-This pedal was created and designed by Cody Carter (Computer Engineering), Rylie Fontenot (Electrical Engineering), and Cecilia [Last Name] (Electrical Engineering). Together we created a custom feedback looper pedal that open up so many tone possibilities to a guitar player's arsenal. Development responsibilities were split between us, with each contributing their expertise in analog circuit design, PCB design, and hardware integration.
+This pedal was created and designed by Cody Carter (Computer Engineering), Rylie Fontenot (Electrical Engineering), and Cecilia Ingo (Electrical Engineering). Together we created a custom feedback looper pedal that open up so many tone possibilities to a guitar player's arsenal. Development responsibilities were split between us, with each contributing their expertise in analog circuit design, PCB design, and hardware integration.
 
 <!--suppress ALL -->
 <div align="center">
@@ -48,9 +48,9 @@ Convinced yet? The possibilities with a feedback looper are endless, give it a s
 # Parts List
 All of these parts can be easily picked up online for under 15-20 bucks.
 
-This build can be made without the LED and DC jack, but I prefer having an indicator for whether the pedal is on.
+This build can be made without the LED and DC jack, but we prefer having an indicator for whether the pedal is on.
 
-- 1590BB Enclosure (I used a bigger enclosure for the graphics)
+- 1590BB Enclosure (We used a bigger enclosure for the graphics)
 - 4x 1/4" Guitar Jacks
 - 1x DC Power Connector
 - 1x Latching or Momentary 3PDT Footswitch
