@@ -28,7 +28,7 @@ This pedal was created and designed by Cody Carter (Computer Engineering), Rylie
   </p>
 
 <div align="center">
-  <h3>Cecilia (insert last name)</h3>
+  <h3>Cecilia Ingo</h3>
   <img src="" alt="" width="100" style="border-radius:50%">
   <p>
     <a href="">
