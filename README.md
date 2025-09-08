@@ -26,7 +26,7 @@ This pedal was created and designed by Cody Carter (Computer Engineering), Rylie
     </a>
   </p>
 
-  <div align="center">
+<div align="center">
   <h3>Cecilia (insert last name)</h3>
   <img src="" alt="" width="100" style="border-radius:50%">
   <p>
@@ -37,7 +37,8 @@ This pedal was created and designed by Cody Carter (Computer Engineering), Rylie
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
   </p>
-  
+</div>
+
 # About
 All you do is plug in a guitar into the input, route a pedal through the effects loop, and run the output to your signal chain or amp. Depending on the pedals put in the effects loop, like delay, fuzz, chorus, distortion, etc, you will have infinite delay, chasmic reverb, snarling fuzz tones, and so much more. Each pedal has a truly unique effect when placed in the looper that brings new life and inspiration to your guitar pedals.
 
